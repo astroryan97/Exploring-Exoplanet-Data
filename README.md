@@ -15,10 +15,11 @@ The PowerPoint presentaion is acessable at https://docs.google.com/presentation/
 ## Tools Used
 
 * Jupyter Notebooks
-  * Numpy
+  * NumPy
+  * SciPy
   * Matplotlib
   * Pandas
-  * Astropy 
+  * AstroPy 
 * Tableu
 
 ## Data Source
