@@ -9,6 +9,7 @@ I explore the currently available exoplanet data to answer the following questio
 5. How many planets are located in the habitable zone? Are any of them like Earth?
 
 The data story is published on Medium at https://astroryan97.medium.com/analyzing-exo-planet-data-92b15b28da29
+
 The PowerPoint presentaion is acessable at https://docs.google.com/presentation/d/1LrU36GYGltyIL8HadLAqRdr1wYw7vKEueNNdCrleee8/edit?usp=sharing
 
 ## Tools Used
